@@ -1,0 +1,21 @@
+.width{
+    width:100%;
+    overflow:hidden;
+    
+}
+.contactInfo{
+    text-align: center;
+}
+.contactus{
+    padding:1%;
+    width:10%;
+}
+.bg{
+/* background:url('D:\PavithraJayaram\Nodejs\Fruitwebsite\frontend\public\images\bg.jpg'); */
+background: url('D:\PavithraJayaraman\Nodejs\Fruitwebsite\frontend\public\images\bg.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+width:100%;
+height:100vh;
+padding:3%;
+}

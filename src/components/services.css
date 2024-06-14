@@ -1,0 +1,22 @@
+.formwidth{
+width:70%;
+margin-left: 20%;
+}
+.button{
+    margin-left: 20%;
+}
+.form-group{
+    color:red;
+    font-size: 20px;
+}
+.form-control{
+    margin-top:2%;
+    /* border-color: blue;
+    border-radius: 2px; */
+    border:2px solid blue;
+
+}
+.ordernow{
+    text-align: center;
+    /* background-color: blue; */
+}
