@@ -15,7 +15,7 @@ const Services = () => {
   function saveData() {
     const formData = { name, email,phone,address,city,zipcode,state,country}; // Create an object containing all form data
 
-    axios.post('http://localhost:3001/api/postdata',formData)
+    axios.post('https://fruit-backend.vercel.app/api/postdata',formData)
 
     .then((res)=>{
         alert(JSON.stringify(res))
